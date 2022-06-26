@@ -6,7 +6,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 ---
 
 
-<p><img align="center" src="(https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit" alt="[ogulcankacarr](https://www.instagram.com/ogulcan_kcr)"/></p>
+<p><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit" alt="https://www.instagram.com/ogulcan_kcr"/></p>
   [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar) 
   [![GooglePlay](https://img.shields.io/badge/Googleplay-000000?style=for-the-badge&logo=Googleplay&logoColor=whit)](https://play.google.com/store/apps/dev?id=6520298174878575178)
   [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)
