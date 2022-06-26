@@ -13,9 +13,8 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
   [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
    
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr" with="500px"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcankacarr&" alt="ogulcankacarr" /></p>
 
