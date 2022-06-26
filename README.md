@@ -18,11 +18,5 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p> 
 
-<br><br><br><br><h3 align="left">Languages and Tools:</h3><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">
-  
- 
-
-
 ---
 
