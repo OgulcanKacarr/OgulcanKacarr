@@ -8,8 +8,11 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/ogulcan_kcr) 
 [![GooglePlay](https://img.shields.io/badge/Googleplay-000000?style=for-the-badge&logo=Googleplay&logoColor=whit)](https://play.google.com/store/apps/dev?id=6520298174878575178)
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar)
+
 <p align="center">
-![GithubStats](https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical) 
+
+  ![GithubStats](https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical) 
+
 </p>
 
 
