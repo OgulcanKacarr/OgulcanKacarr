@@ -1,36 +1,21 @@
-### Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Marhaba ben Oğulcan KAÇAR,
-Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ bölümünden mezunum. Aynı zamanda Anadolu Üniversitesi'nden **Yönetim Bilişim Sistemleri** 🖥️     olmak üzere ikinci üniversitemi okumaktayım. Kendimi hem tarih hem de hobi olarak başladığım yazılım ve siber güvenlik alanında geliştirmek için çabalamaktayım.       Bu hususta araştırmaya olan yoğun ilgimi tarih alanında olduğu gibi yeni teknolojileri öğrenme hevesimle de birleştirerek âdeta ***"geçmişimi bilerek geleceğimi       yazıyorum"*** en azından bunun olması için çabalamaktayım. Şuan da aktif olarak, google play mağazama java ile android uygulamaları geliştirmekte, python ile daha     çok ctf çözerken kullandığım siber alanda scriptler/uygulamlar yazmaktayım. 👨‍💻 Özellikle siber güvenlik alanına olan ilgim sebebiyle python ve java gibi diğer         programlama dillerinin de en azından 101 kısımlarını öğrenmek için udemy veya btkakademi gibi platformlardan kurslar almaktayım.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogulcankacarr&label=Profile%20views&color=0e75b6&style=flat" alt="ogulcankacarr" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogulcankacarr" alt="ogulcankacarr" /></a> </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/ogulcan_kcr) 
-  [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar) 
-  [![GooglePlay](https://img.shields.io/badge/Googleplay-000000?style=for-the-badge&logo=Googleplay&logoColor=whit)](https://play.google.com/store/apps/dev?id=6520298174878575178)
-  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)
-  [![CodersClub](https://img.shields.io/badge/CodersClub-000000?style=for-the-badge&logo=CodersClub&logoColor=whit)](https://codersclub.co/dev/OgulcanKacarr/share-card)
-  [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
-   
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ogulcan_kcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogulcan_kcr" height="30" width="40" /></a>
+</p>
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical) 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sponsor ol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sponsor ol" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogulcankacarr&show_icons=true&locale=en" alt="ogulcankacarr" /></p>
 
-
-<!--
-**OgulcanKacarr/OgulcanKacarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcankacarr&" alt="ogulcankacarr" /></p>
