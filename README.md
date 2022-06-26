@@ -6,13 +6,13 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 ---
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/ogulcan_kcr) 
-  [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar)
+  [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar) <br>
   [![GooglePlay](https://img.shields.io/badge/Googleplay-000000?style=for-the-badge&logo=Googleplay&logoColor=whit)](https://play.google.com/store/apps/dev?id=6520298174878575178)
-  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)
+  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)<br>
   [![CodersClub](https://img.shields.io/badge/CodersClub-000000?style=for-the-badge&logo=CodersClub&logoColor=whit)](https://codersclub.co/dev/OgulcanKacarr/share-card)
   [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
    
-<a href="#"><img src="https://camo.githubusercontent.com/f4a5d523da3261cb7ca20616b1de1f3d05590d403bd323d187c5c9128e4a9d12/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4c754e695a7a2e6c756e697a7a" alt="Visitor" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=OgulcanKacarr" style="max-width: 100%;"></a>
+
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical) 
   
