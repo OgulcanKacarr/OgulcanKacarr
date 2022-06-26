@@ -16,10 +16,6 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical) 
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
-
 
 
 
