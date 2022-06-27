@@ -12,7 +12,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi **Tarih** 📜⌛ böl
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)
 [![CodersClub](https://img.shields.io/badge/CodersClub-000000?style=for-the-badge&logo=CodersClub&logoColor=whit)](https://codersclub.co/dev/OgulcanKacarr/share-card)
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
-
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
 ### Stats <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr"/></p>
