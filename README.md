@@ -12,7 +12,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![GooglePlay](https://img.shields.io/badge/Googleplay-000000?style=for-the-badge&logo=Googleplay&logoColor=whit)](https://play.google.com/store/apps/dev?id=6520298174878575178)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/OgulcanKacarr)
 [![CodersClub](https://img.shields.io/badge/CodersClub-000000?style=for-the-badge&logo=CodersClub&logoColor=whit)](https://codersclub.co/dev/OgulcanKacarr/share-card)
-[![Turkcell](https://img.shields.io/badge/Turkcell-000000?style=for-the-badge&logo=Turkcell&logoColor=whit)](https://gelecegiyazanlar.turkcell.com.tr/kisi/ogulcankacar5454)
+[![Turkcell](https://img.shields.io/badge/Turkcell-000000?style=for-the-badge&logo=Turkcell&logoColor=whit)](https://gelecegiyazanlar.turkcell.com.tr/kisi/ogulcankacarr)
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
