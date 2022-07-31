@@ -21,4 +21,6 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p> 
 
 ---
+name: QR Code Generator
+uses: snow-actions/qrcode@v1.0.0
 
