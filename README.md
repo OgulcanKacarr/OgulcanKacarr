@@ -63,4 +63,4 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
                                                                            .''....'..                                                                     
        
 
-
+---
