@@ -7,7 +7,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png)" />
+  <img src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png" />
 </p><br><br><br><br>
 
 ### Stats <br>
