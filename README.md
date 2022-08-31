@@ -5,12 +5,14 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 
 ---
 
+<p><img align="right" src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png" alt="ogulcankacarr"/></p>
+
+
 ### Stats <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
-<br><br><p><img align="left" src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png" alt="ogulcankacarr"/></p>
 ### Contact <br>
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/ogulcan_kcr) 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=whit)](https://twitter.com/Ogulcan_Kacarr) 
@@ -21,6 +23,4 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Turkcell](https://img.shields.io/badge/Turkcell-000000?style=for-the-badge&logo=Turkcell&logoColor=whit)](https://gelecegiyazanlar.turkcell.com.tr/kisi/ogulcankacarr)
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
-
-<p><img align="right" src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png" alt="ogulcankacarr"/></p>
 
