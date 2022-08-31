@@ -24,7 +24,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 ---
 
 ###
-<p>
+<p align="center>
 		
                                                                                                                                                        
                                                                                                       .                                                   
@@ -63,4 +63,5 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
                                                                            ..........                                                                     
                                                                            ..........                                                                     
                                                                            .''....'..                                                                     
-       </p>
+  
+</p>
