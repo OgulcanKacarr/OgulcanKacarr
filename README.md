@@ -19,11 +19,12 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 
 ### Stats <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcankacarr&show_icons=true&locale=en&layout=compact" alt="ogulcankacarr"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p> 
-
----
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=radical" alt="ogulcankacarr" /></p> <br>
+<br><br><br>
+---<br>
+<br>
 ###
+<br>
 <p align="center>
 		
                                                                                                                                                        
