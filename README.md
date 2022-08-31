@@ -17,12 +17,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
 
-
----
-
-###
-
-<p align="center>
+<p>
 		
                                                                                                                                                        
                                                                                                       .                                                   
