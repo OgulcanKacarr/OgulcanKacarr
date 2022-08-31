@@ -23,7 +23,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
 
-[![myLogo](https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/myLogo.png?raw=true)
+[![myLogo]([https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/myLogo.png?raw=true](https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/myLogoLarge.png?raw=true))
 <br><br><br>
 <p>
 		
