@@ -26,3 +26,6 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
+
+ <script src="https://tryhackme.com/badge/84092"></script>
+
