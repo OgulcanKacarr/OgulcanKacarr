@@ -27,5 +27,5 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
 
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/ogulcanKacar.png" alt="TryHackMe">
+ <script src="https://tryhackme.com/badge/84092"></script>
 
