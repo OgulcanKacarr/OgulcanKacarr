@@ -25,7 +25,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 [![Turkcell](https://img.shields.io/badge/Turkcell-000000?style=for-the-badge&logo=Turkcell&logoColor=whit)](https://gelecegiyazanlar.turkcell.com.tr/kisi/ogulcankacarr)
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/tzxfQmut)
-
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OgulcanKacar)
 
 
 
