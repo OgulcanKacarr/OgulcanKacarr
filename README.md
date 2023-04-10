@@ -20,8 +20,6 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 </p><br>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OgulcanKacarr)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### Contact <br>
