@@ -20,7 +20,8 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
 </p><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgulcanKacarr&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgulcanKacarr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Contact <br>
