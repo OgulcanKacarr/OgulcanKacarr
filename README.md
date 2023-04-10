@@ -19,7 +19,7 @@ Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Tarih 📜⌛ bölüm�
   <img src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/logo.gif?raw=true" />
 </p><br>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=OgulcanKacarr&theme=neon&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ### Contact <br>
