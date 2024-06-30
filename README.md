@@ -66,7 +66,7 @@
 
 ###
 
-<div align="left">
+
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/ogulcan_kcr) 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=whit)](https://twitter.com/Ogulcan_Kacarr) 
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/ogulcanKacar) 
@@ -77,6 +77,6 @@
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/2yCSjgQ4ht)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OgulcanKacar)
-</div>
+
 
 ###
