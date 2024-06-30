@@ -69,8 +69,6 @@
 ### Stats 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgulcanKacarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=OgulcanKacarr&show_icons=true&theme=tokyonight" alt="ogulcankacarr" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=OgulcanKacarr&theme=neon&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
