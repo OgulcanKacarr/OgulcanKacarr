@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Ben Oğulcan KAÇAR</h2>
+<h2 align="center">Hi 👋! Oğulcan KAÇAR</h2>
 
 <p align="center">
   <img src="https://github.com/OgulcanKacarr/OgulcanKacarr/blob/main/tr.png" />
