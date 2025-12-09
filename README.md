@@ -83,6 +83,7 @@
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:oglcnkcr54_kcr@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=whit)](https://discord.gg/2yCSjgQ4ht)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/OgulcanKacar)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-000000?style=for-the-badge&logo=Tinkercad&logoColor=white)]([https://t.me/OgulcanKacar](https://www.tinkercad.com/users/7bnFTa435qb))
 
 
 ###
